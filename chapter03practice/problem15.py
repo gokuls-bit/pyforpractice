@@ -9,7 +9,7 @@ you are selected!
 
 e =input("enter your Name")
 f =input("enter Date")
-new_letter = letter.replace("<|Date|>",f)
+new_letter = letter.replace("<|Date|>",f) 
 new_letter = new_letter.replace("<|Name|>",e)
 print (new_letter)
 
