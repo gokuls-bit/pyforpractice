@@ -9,7 +9,7 @@ dictionary={
 }
 print(dictionary)
 
-#n1 = int(input("enter any no. : "))
+#n1 = int(input("enter any no. : ")) 
 #n#11 = int(input("enter any no. : "))
 #n2 = int(input("enter any no. : "))
 #n4 = int(input("enter any no. : "))
