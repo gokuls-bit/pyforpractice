@@ -1,4 +1,4 @@
-
+ 
 #n1=int(input("enter any number "))
 #n2=int(input("enter any number "))
 #n3=int(input("enter any number "))
